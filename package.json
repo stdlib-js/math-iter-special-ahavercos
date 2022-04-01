@@ -1,0 +1,48 @@
+{
+  "name": "@stdlib/math-iter-special-ahavercos",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the inverse half-value versed cosine of each iterated value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-ahavercos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "ahavercos",
+    "ahavercosin",
+    "ahavercosine",
+    "arcvercos",
+    "arcvercosin",
+    "arcvercosine",
+    "versed cosine",
+    "ahavercosinus",
+    "ahvc",
+    "arc",
+    "versed",
+    "half-value",
+    "cosine",
+    "cos",
+    "acos",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
