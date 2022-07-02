@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.iterAhavercos;
+})();
 })();
 </script>
 ```
@@ -130,6 +132,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-ahavercos@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = uniform( 0.0, 1.0, {
@@ -150,6 +153,7 @@ while ( true ) {
     console.log( r.value );
 }
 
+})();
 })();
 </script>
 </body>
@@ -258,13 +262,13 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/special/ahavercos]: https://github.com/stdlib-js/math-base-special-ahavercos/tree/umd
+[@stdlib/math/base/special/ahavercos]: https://github.com/stdlib-js/math-base-special-ahavercos/tree/umd/tree/umd
 
-[@stdlib/math/iter/special/ahaversin]: https://github.com/stdlib-js/math-iter-special-ahaversin/tree/umd
+[@stdlib/math/iter/special/ahaversin]: https://github.com/stdlib-js/math-iter-special-ahaversin/tree/umd/tree/umd
 
-[@stdlib/math/iter/special/havercos]: https://github.com/stdlib-js/math-iter-special-havercos/tree/umd
+[@stdlib/math/iter/special/havercos]: https://github.com/stdlib-js/math-iter-special-havercos/tree/umd/tree/umd
 
-[@stdlib/math/iter/special/vercos]: https://github.com/stdlib-js/math-iter-special-vercos/tree/umd
+[@stdlib/math/iter/special/vercos]: https://github.com/stdlib-js/math-iter-special-vercos/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
