@@ -158,10 +158,10 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/ahavercos`][@stdlib/math/base/special/ahavercos]</span><span class="delimiter">: </span><span class="description">compute the inverse half-value versed cosine.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/ahaversin`][@stdlib/math/iter/special/ahaversin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the inverse half-value versed sine of each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/havercos`][@stdlib/math/iter/special/havercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the half-value versed cosine for each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/vercos`][@stdlib/math/iter/special/vercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the versed cosine for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/ahavercos`][@stdlib/math/base/special/ahavercos]</span><span class="delimiter">: </span><span class="description">compute the inverse half-value versed cosine.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/ahaversin`][@stdlib/math/iter/special/ahaversin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the inverse half-value versed sine of each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/havercos`][@stdlib/math/iter/special/havercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the half-value versed cosine for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/vercos`][@stdlib/math/iter/special/vercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the versed cosine for each iterated value.</span>
 
 </section>
 
